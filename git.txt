@@ -4,3 +4,8 @@ git status
 git add <filename> 
 // to add a particular file in git
 
+git add .
+// to add all the files
+
+git commit -m " all files added of java code"
+// to commit or mentioning the reason of uploading the file
