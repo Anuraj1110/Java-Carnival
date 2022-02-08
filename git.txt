@@ -1,0 +1,6 @@
+git status 
+// to see the status of file wheather it's added or not
+
+git add <filename> 
+// to add a particular file in git
+
